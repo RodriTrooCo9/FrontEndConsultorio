@@ -41,7 +41,7 @@ function Navbar() {
                         </div>
                     </div>
                 </div>
-                :<button onClick={()=>navigate('/login')} className='bg-blue-400 text-white px-8 py-3 rounded-full font-light hidden md:block'>Create account</button>
+                :<button onClick={()=>navigate('/registro-paciente')} className='bg-blue-400 text-white px-8 py-3 rounded-full font-light hidden md:block'>Create account</button>
             }
         </div>
     </div>
